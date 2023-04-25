@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travlove/static/css/main.e5ef69f0.css",
+    "main.js": "/travlove/static/js/main.06ba5117.js",
+    "static/js/787.d111fdb7.chunk.js": "/travlove/static/js/787.d111fdb7.chunk.js",
+    "index.html": "/travlove/index.html",
+    "main.e5ef69f0.css.map": "/travlove/static/css/main.e5ef69f0.css.map",
+    "main.06ba5117.js.map": "/travlove/static/js/main.06ba5117.js.map",
+    "787.d111fdb7.chunk.js.map": "/travlove/static/js/787.d111fdb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ef69f0.css",
+    "static/js/main.06ba5117.js"
+  ]
+}
